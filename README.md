@@ -2,7 +2,7 @@
 
 ## 🎓 Sobre Mim
 
-Estudante de **Engenharia de Software** em Campo Grande, MS, buscando oportunidades como **estagiário** ou **aprendiz** em desenvolvimento de software.
+Estudante de **Engenharia de Software** em Dourados, MS, buscando oportunidades como **estagiário** ou **aprendiz** em desenvolvimento de software e/ou análise de dados.
 
 🔍 **Disponível para estágio**
 
