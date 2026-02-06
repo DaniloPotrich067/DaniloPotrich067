@@ -16,7 +16,7 @@ Estudante de **Engenharia de Software** em Campo Grande, MS, buscando oportunida
 ## 📫 Contato
 
 📧 **E-mail:** danilopotrichms@gmail.com  
-📍 **Localização:** Campo Grande, MS, Brasil
+📍 **Localização:** Dourados, MS, Brasil
 
 ---
 
