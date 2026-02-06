@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou Danilo Potrich 👋
 
-<!--
-**DaniloPotrich067/DaniloPotrich067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre Mim
 
-Here are some ideas to get you started:
+Estudante de **Engenharia de Software** em Campo Grande, MS, buscando oportunidades como **estagiário** ou **aprendiz** em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Disponível para estágio**
+
+## 💻 Stack Técnica
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📫 Contato
+
+📧 **E-mail:** danilopotrichms@gmail.com  
+📍 **Localização:** Campo Grande, MS, Brasil
+
+---
+
+💡 *Sempre em busca de aprender novas tecnologias e resolver problemas reais através do código.*
