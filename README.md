@@ -4,6 +4,7 @@
 Focado em Análise de Dados, Engenharia de ETL e Desenvolvimento Full-Stack.  
 Disponível para estágio ou aprendizagem.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilo--potrich-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-potrich-a03468279/)
 [![Email](https://img.shields.io/badge/Email-danilopotrichms%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilopotrichms@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DaniloPotrich067-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DaniloPotrich067)
 
@@ -33,7 +34,7 @@ Dashboard de Business Intelligence desenvolvido em Streamlit com pipeline ETL co
 Pipeline ETL de dados do IBGE e fontes externas para análise demográfica e econômica do Brasil. Inclui mapas coropléticos, histogramas e dashboards interativos para exploração de indicadores por estado.  
 `Python` `Pandas` `IBGE API` `Visualização de Dados`
 
-### 💹 [Análise Financeira (Microsoft Financials)](https://github.com/DaniloPotrich067/AnaliseFinanceira)
+### 📉 [Análise Financeira (Microsoft Financials)](https://github.com/DaniloPotrich067/AnaliseFinanceira)
 Análise descritiva da base Financials da Microsoft após processo de ETL. Visuais analíticos para explorar vendas, lucro e unidades vendidas, com foco em identificação de padrões e suporte à decisão estratégica.  
 `Python` `ETL` `Análise Descritiva`
 
