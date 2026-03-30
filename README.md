@@ -80,15 +80,10 @@ Pipeline ETL em Python com Pandas: leitura de CSV, transformações (padronizaç
 
 ## Estatísticas
 
-> ⚠️ **Nota:** As imagens abaixo usam uma instância própria no Vercel para evitar erros de rate limit.
-> Siga as instruções em [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) para configurar a sua e substituir `SEU_DOMINIO` pela URL gerada.
-
 <div align="center">
 
-![GitHub Stats](https://SEU_DOMINIO/api?username=DaniloPotrich067&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://SEU_DOMINIO/api/top-langs/?username=DaniloPotrich067&layout=compact&theme=default&hide_border=true)
-
+![GitHub Stats](https://github-stats-danilo.vercel.app/api?username=DaniloPotrich067&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-stats-danilo.vercel.app/api/top-langs/?username=DaniloPotrich067&layout=compact&theme=default&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaniloPotrich067&theme=default&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
