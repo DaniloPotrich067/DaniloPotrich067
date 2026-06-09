@@ -2,13 +2,13 @@
 
 # Danilo Potrich
 
-**Estudante de Engenharia de Software**
+### Engenharia de Software · Dados · ETL · Backend
 
-Dourados, MS, Brasil · Focado em Análise de Dados, Engenharia de ETL e Desenvolvimento Full-Stack
+**Dourados, MS, Brasil**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilo--potrich-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-potrich-a03468279/)
-[![Email](https://img.shields.io/badge/Email-danilopotrichms%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilopotrichms@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DaniloPotrich067-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DaniloPotrich067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilo--potrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-potrich-a03468279/)
+[![Email](https://img.shields.io/badge/Gmail-danilopotrichms-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilopotrichms@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DaniloPotrich067-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniloPotrich067)
 
 </div>
 
@@ -16,42 +16,52 @@ Dourados, MS, Brasil · Focado em Análise de Dados, Engenharia de ETL e Desenvo
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software com foco em **Análise de Dados**, **Engenharia de ETL** e **Desenvolvimento Full-Stack**. Tenho experiência prática com pipelines de dados, dashboards interativos e soluções em nuvem. Disponível para **estágio ou aprendizagem**.
+Estudante de Engenharia de Software com foco em **Análise de Dados**, **Engenharia de ETL** e **Desenvolvimento Backend**. Construo pipelines de dados reais, dashboards interativos e soluções orientadas a resultados de negócio. Disponível para **estágio ou aprendizagem**.
+
+> "Código que não gera valor é só ruído."
 
 ---
 
-## Tecnologias
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### 🐍 Back-end & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🖥️ Front-end & Dashboards
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Nuvem & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## Projetos em Destaque
 
 ### 📊 [TMDB BI Dashboard](https://github.com/DaniloPotrich067/TMDB-BI-bussiness-questions-dashboard)
-Dashboard de Business Intelligence desenvolvido em Streamlit com pipeline ETL completo sobre dados da API TMDB. Responde questões de negócio sobre curadoria, demanda, mix de gêneros e ROI, com KPIs, filtros dinâmicos e alertas visuais.
+Dashboard de Business Intelligence em Streamlit com pipeline ETL completo sobre dados da API TMDB. Responde questões de negócio sobre curadoria, demanda, mix de gêneros e ROI, com KPIs, filtros dinâmicos e alertas visuais.
 
 `Python` `Streamlit` `ETL` `PostgreSQL`
 
 ---
 
 ### 🌎 [PIB & Análise Demográfica](https://github.com/DaniloPotrich067/PIB_Analise_Demografica)
-Pipeline ETL de dados do IBGE e fontes externas para análise demográfica e econômica do Brasil. Inclui mapas coropléticos, histogramas e dashboards interativos para exploração de indicadores por estado.
+Pipeline ETL com dados do IBGE para análise demográfica e econômica do Brasil. Inclui mapas coropléticos, histogramas e dashboards interativos com indicadores por estado.
 
 `Python` `Pandas` `IBGE API` `Visualização de Dados`
 
 ---
 
 ### 📉 [Análise Financeira (Microsoft Financials)](https://github.com/DaniloPotrich067/AnaliseFinanceira)
-Análise descritiva da base Financials da Microsoft após processo de ETL. Visuais analíticos para explorar vendas, lucro e unidades vendidas, com foco em identificação de padrões e suporte à decisão estratégica.
+Análise descritiva pós-ETL sobre a base Financials da Microsoft. Visuais para explorar vendas, lucro e unidades vendidas com foco em identificação de padrões e suporte à decisão estratégica.
 
 `Python` `ETL` `Análise Descritiva`
 
@@ -65,14 +75,14 @@ Dashboard interativo em Excel para análise de vendas de assinaturas do Xbox Gam
 ---
 
 ### ☁️ [Redução de Custos com AWS](https://github.com/DaniloPotrich067/-Redu-o-dos-Custos-em-Farm-cias-com-AWS)
-Implementação estratégica de AWS Compute Optimizer, S3 Intelligent-Tiering e AWS Budgets para otimização de infraestrutura no setor farmacêutico. Foco em FinOps e eliminação de recursos ociosos.
+Implementação de AWS Compute Optimizer, S3 Intelligent-Tiering e AWS Budgets para otimização de infraestrutura no setor farmacêutico. Foco em FinOps e eliminação de recursos ociosos.
 
 `AWS` `FinOps` `Cloud`
 
 ---
 
 ### 🐍 [ETL com Python](https://github.com/DaniloPotrich067/ETL-Python)
-Pipeline ETL em Python com Pandas: leitura de CSV, transformações (padronização de nomes, cálculo de idade, validação de e-mails) e exportação dos dados limpos.
+Pipeline ETL com Pandas: leitura de CSV, transformações (padronização de nomes, cálculo de idade, validação de e-mails) e exportação dos dados limpos.
 
 `Python` `Pandas` `ETL`
 
@@ -82,14 +92,15 @@ Pipeline ETL em Python com Pandas: leitura de CSV, transformações (padronizaç
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-danilo.vercel.app/api?username=DaniloPotrich067&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-stats-danilo.vercel.app/api/top-langs/?username=DaniloPotrich067&layout=compact&theme=default&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaniloPotrich067&theme=default&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloPotrich067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloPotrich067&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniloPotrich067&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Feito com 💙 por Danilo Potrich</sub>
+  <sub>Feito com 💙 por Danilo Potrich · Disponível para estágio e aprendizagem</sub>
 </div>
