@@ -6,7 +6,7 @@
 
 **Dourados, MS, Brasil**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilo--potrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-potrich-a03468279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilo--potrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilopotrich067)
 [![Email](https://img.shields.io/badge/Gmail-danilopotrichms-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilopotrichms@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DaniloPotrich067-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniloPotrich067)
 
